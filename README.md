@@ -1,2 +1,2 @@
 # ALMAR
-BLE Verbindung zu Gangway
+BLE Verbindung zu Relay
